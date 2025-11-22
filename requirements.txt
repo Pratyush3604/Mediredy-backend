@@ -5,3 +5,7 @@ requests==2.31.0
 pydantic==1.10.12
 python-multipart==0.0.6
 reportlab==4.0.7
+anyio<4.0.0,>=3.7.1
+starlette<0.28.0,>=0.27.0
+typing-extensions>=4.8.0
+annotated-types>=0.4.0
